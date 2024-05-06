@@ -1,1 +1,0 @@
-/home/arhamsoft/Projects101/ICP/final/icp_transfer/target/wasm32-unknown-unknown/release/icp_transfer_backend.wasm: /home/arhamsoft/Projects101/ICP/final/icp_transfer/src/icp_transfer_backend/src/lib.rs
